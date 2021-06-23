@@ -2,7 +2,7 @@
 
 # C2
 ## Motivation
-To implement a project based on <a href = "https://arxiv.org/pdf/1611.07004.pdf"> Image-to-Image Translation with Conditional Adversarial Networks/a>, by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros.
+To implement a project based on <a href = "https://arxiv.org/pdf/1611.07004.pdf"> Image-to-Image Translation with Conditional Adversarial Networks </a>, by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros.
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
@@ -46,8 +46,8 @@ $ streamlit run app.py
 
 
 <div>
-    <img src="https://user-images.githubusercontent.com/52780573/110626755-212cef00-81c7-11eb-82be-06572a149605.png" width="100" height="100"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626757-22f6b280-81c7-11eb-9b85-931a95c36ccb.png" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104738-d6bd3e80-d454-11eb-874b-ba9fb3f7bf70.png" width="200" height="200"/>
     <img src="https://user-images.githubusercontent.com/52780573/110626762-238f4900-81c7-11eb-9b6b-73cd42601306.png" width="100" height="100"/>
     <img src="https://user-images.githubusercontent.com/52780573/110626764-2427df80-81c7-11eb-9dc4-fbc63dd8740d.png" width="100" height="100"/>
     <img src="https://user-images.githubusercontent.com/52780573/110626768-24c07600-81c7-11eb-9f5f-6bbd7bc7bdac.jpeg" width="100" height="100"/>
