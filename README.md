@@ -14,6 +14,10 @@ $ pip3 install -r requirements.txt
 ```python
 $ streamlit run app.py
 ```
+#### in case of albumentations error:
+```python
+$ pip install -U git+https://github.com/albu/albumentations --no-cache-dir
+```
 
 ### Screenshots
 <img src="https://user-images.githubusercontent.com/52780573/123106829-9bbc0a80-d456-11eb-90d4-09d44a0e2ec1.png" data-canonical-src="" width="900" height="500" />
