@@ -27,12 +27,19 @@ Discriminator: Unmodified PatchGAN
 #### Hyperparameters:
 
 LEARNING_RATE = 2e-4
+
 BATCH_SIZE = 16
+
 NUM_WORKERS = 2
+
 IMAGE_SIZE = 256
+
 CHANNELS_IMG = 3
+
 L1_LAMBDA = 100
+
 LAMBDA_GP = 10
+
 NUM_EPOCHS = 7
 
 
@@ -42,6 +49,8 @@ D_fake=0.179, D_real=0.859
 
 ### Results
 #### (256 x 256 x 3 output)
+
+
 
 <div>
     <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="240" height="240"/>
