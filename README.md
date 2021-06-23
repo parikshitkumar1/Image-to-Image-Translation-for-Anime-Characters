@@ -27,12 +27,12 @@ $ pip install -U git+https://github.com/albu/albumentations --no-cache-dir
 
 Generator: Unmodified UNET
 
-<img src="https://user-images.githubusercontent.com/52780573/123108550-22bdb280-d458-11eb-9485-ec6877e3a728.png" data-canonical-src="" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/52780573/123109355-cd35d580-d458-11eb-976b-f0be95e5b29f.png" data-canonical-src="" width="700" height="400" />
 
 
 Discriminator: Unmodified PatchGAN
 
-<img src="https://user-images.githubusercontent.com/52780573/123108728-48e35280-d458-11eb-93c1-5df850b3e5e6.png" data-canonical-src="" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/52780573/123108728-48e35280-d458-11eb-93c1-5df850b3e5e6.png" data-canonical-src="" width="700" height="400" />
 
 #### Dataset:
 
