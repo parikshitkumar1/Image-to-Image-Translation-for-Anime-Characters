@@ -53,14 +53,14 @@ D_fake=0.179, D_real=0.859
 
 
 <div>
-    <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="210" height="210"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123104738-d6bd3e80-d454-11eb-874b-ba9fb3f7bf70.png" width="210" height="210"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105066-1be17080-d455-11eb-8ff7-17ed40e0f47e.jpg" width="210" height="210"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105069-1d129d80-d455-11eb-8392-4f1ca855c68a.png" width="210" height="210"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105667-99a57c00-d455-11eb-996a-cd273450ecb1.jpg" width="210" height="210"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105672-9ad6a900-d455-11eb-9386-3dfb9d33ec0a.png" width="210" height="210"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105799-b6da4a80-d455-11eb-9088-9e31873badb2.jpg" width="210" height="210"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105804-b80b7780-d455-11eb-80bf-1e5bc28c41d9.png" width="210" height="210"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104738-d6bd3e80-d454-11eb-874b-ba9fb3f7bf70.png" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105066-1be17080-d455-11eb-8ff7-17ed40e0f47e.jpg" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105069-1d129d80-d455-11eb-8392-4f1ca855c68a.png" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105667-99a57c00-d455-11eb-996a-cd273450ecb1.jpg" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105672-9ad6a900-d455-11eb-9386-3dfb9d33ec0a.png" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105799-b6da4a80-d455-11eb-9088-9e31873badb2.jpg" width="200" height="200"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105804-b80b7780-d455-11eb-80bf-1e5bc28c41d9.png" width="200" height="200"/>
    
 </div>
 
