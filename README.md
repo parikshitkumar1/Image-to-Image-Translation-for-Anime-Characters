@@ -46,10 +46,10 @@ $ streamlit run app.py
 
 
 <div>
-    <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="256" height="256"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123104738-d6bd3e80-d454-11eb-874b-ba9fb3f7bf70.png" width="256" height="256"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105066-1be17080-d455-11eb-8ff7-17ed40e0f47e.jpg" width="256" height="256"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123105069-1d129d80-d455-11eb-8392-4f1ca855c68a.png" width="256" height="256"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="240" height="240"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104738-d6bd3e80-d454-11eb-874b-ba9fb3f7bf70.png" width="240" height="240"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105066-1be17080-d455-11eb-8ff7-17ed40e0f47e.jpg" width="240" height="240"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105069-1d129d80-d455-11eb-8392-4f1ca855c68a.png" width="240" height="240"/>
    
 </div>
 
