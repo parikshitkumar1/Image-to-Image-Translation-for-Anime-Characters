@@ -34,6 +34,8 @@ Discriminator: Unmodified PatchGAN
 
 <img src="https://user-images.githubusercontent.com/52780573/123108728-48e35280-d458-11eb-93c1-5df850b3e5e6.png" data-canonical-src="" width="700" height="400" />
 
+##### read the paper for more details :p 
+
 #### Dataset:
 
 modified version of https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair by Taebum Kim
