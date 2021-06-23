@@ -83,7 +83,7 @@ D_fake=0.179, D_real=0.859
 
 
 
-## Might Do
+### Might Do
 - [ ] Implement with different datasets
 - [ ] 
 
