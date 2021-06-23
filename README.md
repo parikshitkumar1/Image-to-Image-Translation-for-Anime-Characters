@@ -15,9 +15,10 @@ $ pip3 install -r requirements.txt
 $ streamlit run app.py
 ```
 
-#### Screenshots
+### Screenshots
 <img src="https://user-images.githubusercontent.com/52780573/123106829-9bbc0a80-d456-11eb-90d4-09d44a0e2ec1.png" data-canonical-src="" width="900" height="500" />
 <img src="https://user-images.githubusercontent.com/52780573/123106952-b8584280-d456-11eb-973d-82c234a64501.png" data-canonical-src="" width="900" height="500" />
+
 ### Other details:
 
 Generator: Unmodified UNET
@@ -35,10 +36,12 @@ LAMBDA_GP = 10
 NUM_EPOCHS = 7
 
 
-#### final scores: D_fake=0.179, D_real=0.859
+#### final scores: 
 
-## Results
-### (256 x 256 x 3 output)
+D_fake=0.179, D_real=0.859
+
+### Results
+#### (256 x 256 x 3 output)
 
 <div>
     <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="240" height="240"/>
