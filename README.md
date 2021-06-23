@@ -46,14 +46,10 @@ $ streamlit run app.py
 
 
 <div>
-    <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="200" height="200"/>
-    <img src="https://user-images.githubusercontent.com/52780573/123104738-d6bd3e80-d454-11eb-874b-ba9fb3f7bf70.png" width="200" height="200"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626762-238f4900-81c7-11eb-9b6b-73cd42601306.png" width="100" height="100"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626764-2427df80-81c7-11eb-9dc4-fbc63dd8740d.png" width="100" height="100"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626768-24c07600-81c7-11eb-9f5f-6bbd7bc7bdac.jpeg" width="100" height="100"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110626769-24c07600-81c7-11eb-959a-bcf5d5eb70cc.png" width="100" height="100"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110627447-ff803780-81c7-11eb-97ab-c0f642509f4d.png" width="100" height="100"/>
-    <img src="https://user-images.githubusercontent.com/52780573/110627568-28083180-81c8-11eb-9f77-5797f07fd4c8.png" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104728-d3c24e00-d454-11eb-8a57-f102a9a682eb.jpg" width="256" height="256"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123104738-d6bd3e80-d454-11eb-874b-ba9fb3f7bf70.png" width="256" height="256"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105066-1be17080-d455-11eb-8ff7-17ed40e0f47e.jpg" width="256" height="256"/>
+    <img src="https://user-images.githubusercontent.com/52780573/123105069-1d129d80-d455-11eb-8392-4f1ca855c68a.png" width="256" height="256"/>
    
 </div>
 
