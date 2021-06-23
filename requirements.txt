@@ -1,0 +1,6 @@
+torch==1.7.1
+albumentations==1.0.0
+streamlit==0.79.0
+numpy==1.19.5
+torchvision==0.8.2
+Pillow==8.2.0
