@@ -23,11 +23,20 @@ $ pip install -U git+https://github.com/albu/albumentations --no-cache-dir
 <img src="https://user-images.githubusercontent.com/52780573/123106829-9bbc0a80-d456-11eb-90d4-09d44a0e2ec1.png" data-canonical-src="" width="900" height="500" />
 <img src="https://user-images.githubusercontent.com/52780573/123106952-b8584280-d456-11eb-973d-82c234a64501.png" data-canonical-src="" width="900" height="500" />
 
-### Other details:
+### Model Components and other details:
 
 Generator: Unmodified UNET
 
+<img src="https://user-images.githubusercontent.com/52780573/123108550-22bdb280-d458-11eb-9485-ec6877e3a728.png" data-canonical-src="" width="400" height="400" />
+
+
 Discriminator: Unmodified PatchGAN
+
+<img src="https://user-images.githubusercontent.com/52780573/123108728-48e35280-d458-11eb-93c1-5df850b3e5e6.png" data-canonical-src="" width="400" height="400" />
+
+#### Dataset:
+
+modified version of https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair by Taebum Kim
 
 #### Hyperparameters:
 
