@@ -3,6 +3,19 @@
 # C2
 ## Motivation
 To implement a project based on <a href = "https://arxiv.org/pdf/1611.07004.pdf"> Image-to-Image Translation with Conditional Adversarial Networks </a>, by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros.
+
+## Citation
+<a href="https://arxiv.org/pdf/1611.07004v1.pdf">Image-to-Image Translation Using Conditional Adversarial Networks</a>:
+
+```
+@article{pix2pix2017,
+  title={Image-to-Image Translation with Conditional Adversarial Networks},
+  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
+  journal={CVPR},
+  year={2017}
+}
+```
+
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
