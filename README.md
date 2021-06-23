@@ -27,7 +27,7 @@ $ pip install -U git+https://github.com/albu/albumentations --no-cache-dir
 
 Generator: Unmodified UNET
 
-<img src="https://user-images.githubusercontent.com/52780573/123109355-cd35d580-d458-11eb-976b-f0be95e5b29f.png" data-canonical-src="" width="700" height="400" />
+<img src="https://user-images.githubusercontent.com/52780573/123109568-f8b8c000-d458-11eb-9a83-dbf6d5b78cc9.png" data-canonical-src="" width="700" height="400" />
 
 
 Discriminator: Unmodified PatchGAN
